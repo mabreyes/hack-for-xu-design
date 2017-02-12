@@ -42,7 +42,7 @@ body {
   margin-left: 0;
   font-family: 'Circular-Pro-Medium', Arial, Helvetica, sans-serif;
   max-height: 100%;
-  background: linear-gradient(to bottom, #8E49E8 0%, #BBB 100%);
+  background: linear-gradient(to bottom, #2196F3 0%, #2196F3 100%);
   color: #777;
 }
 img {
@@ -202,7 +202,7 @@ input:valid + .label {
   line-height: 2.5rem;
   padding: 0 1.5rem;
   color: white;
-  background: #8E49E8;
+  background: #2196F3;
   text-transform: uppercase;
   border-radius: .25rem;
   letter-spacing: .2em;
@@ -213,7 +213,7 @@ input:valid + .label {
 }
 .btn:hover,
 .btn:focus {
-  background: #A678E2;
+  background: #2196F3;
 }
 
 
